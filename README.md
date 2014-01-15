@@ -1,6 +1,8 @@
 Hue-to-Telldus-bridge
 =====================
 
+Current status of this repository is "under construction". More content will follow.
+
 A bridge for mapping and transfer of 433 MHz RF remote control transmitters to Philips Hue system.
 
 There is no good wallswitches for Philips Hue and the system thinking is limited to one persons use of a smartphone to control the lights. When one person leaves the house, all lights can go out. Not a working solution for a household.
