@@ -27,7 +27,11 @@ Goal:
 Links:  
 
 https://www.meethue.com
+
 http://telldus.com/products/range
+
 http://www.nexa.se/WT2TradlosVaggsandare.htm
+
 http://www.mea.philips.com/c/Moodlighting/livingcolors-7099760ph/prd/
+
 http://www.mea.philips.com/c/energy-saving-light-bulbs/livingwhites-6918231ph/prd/
